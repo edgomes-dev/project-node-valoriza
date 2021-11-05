@@ -1,7 +1,5 @@
 # Fórmulario multi etapas
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/edgomes-dev/multiform-react/blob/main/LICENSE)
-### Teste o projeto acessando o site
-https://edgomes-dev.github.io/multiform-react/
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/edgomes-dev/project-node-valoriza/blob/master/LICENSE)
 
 # Imagens no insomnia
 <div align="center">
